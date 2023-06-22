@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674797468587",
+    "project_id": "secquraise-bbd4e",
+    "storage_bucket": "secquraise-bbd4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674797468587:android:319d875cc018168bba30ee",
+        "android_client_info": {
+          "package_name": "com.example.secquraise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674797468587-dl85i2of2kmg11mknuogap9pjnudvne1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCczAUX5Fl0Up9uRnJyahRcdnZJHcWGrUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674797468587-dl85i2of2kmg11mknuogap9pjnudvne1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
